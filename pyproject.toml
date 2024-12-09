@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "dimo-python-sdk"
+name = "ha-dimo-python-sdk"
 version = "0.0.7"
 authors = [
   { name="Barrett Kowalsky", email="barrettkowalsky@gmail.com" },
@@ -20,7 +20,7 @@ classifiers = [
 
 dependencies = [
     "requests>=2.30.0",
-    "eth-account==0.13.4",
+    "ha-eth-account==0.13.4",
     "eth-utils==4.1.1",
 ]
 
