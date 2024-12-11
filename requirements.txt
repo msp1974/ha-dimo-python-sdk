@@ -1,3 +1,3 @@
 requests>=2.30.0
 python-dotenv
-ha-eth-account==0.13.4
+ha-eth-account==0.1.3
